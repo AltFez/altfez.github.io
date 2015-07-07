@@ -3,11 +3,12 @@ Name: Kvasir II Custom Icons
 Version: 0.1
 Architecture: iphoneos-arm
 Description: Hille's custom Kvasir II icons
+Homepage: hille.github.io
+Depiction: http://hille.github.io/depic/com.hille.kvasir2.customicons/index.html
 Maintainer: Hille <a.hille@gmail.com>
 Author: Hille <a.hille@gmail.com>
 Section: Themes (Winterboard)
 Depends: winterboard, com.codethemed.iconbundles
-Filename: debs//com.hille.kvasir2.customicons_0.1_iphoneos-arm.deb
-Size: 169744
-MD5sum: 7a07f3cbf11873ec43b124f21f416f97
-Depiction: http://hille.github.io/depic/com.hille.kvasir2.customicons/index.html
+Filename: ./debs/com.hille.kvasir2.customicons_0.1_iphoneos-arm.deb
+Size: 169784
+MD5sum: 0a36e01280afaf1dc731b3cea883b173
