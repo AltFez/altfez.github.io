@@ -1,31 +1,31 @@
-Package: com.hille.kvasir2.customicons
+Package: tv.hille.kvasir2.customicons
 Name: Kvasir II Custom Icons
-Version: 0.1
+Version: 0.2
 Architecture: iphoneos-arm
 Description: Hille's custom Kvasir II icons
 Homepage: hille.github.io
-Depiction: http://hille.github.io/depic/com.hille.kvasir2.customicons/index.html
+Depiction: http://hille.github.io/depic/tv.hille.kvasir2.customicons/index.html
 Maintainer: Hille <a.hille@gmail.com>
 Author: Hille <a.hille@gmail.com>
 Section: Themes (Winterboard)
 Depends: winterboard, com.codethemed.iconbundles
-Filename: ./debs/com.hille.kvasir2.customicons_0.1_iphoneos-arm.deb
-Size: 339898
-MD5sum: 57fa1b92c58eae70573da06b0f3b7f11
+Filename: ./debs/tv.hille.kvasir2.customicons_0.2_iphoneos-arm.deb
+Size: 169814
+MD5sum: 268fc960013ec220ca1af511eec19a71
 Priority: optional
 
-Package: com.hille.tottenham.respringlogo
+Package: tv.hille.tottenham.respringlogo
 Name: Tottenham Respring Logo
-Version: 0.1
+Version: 0.2
 Architecture: iphoneos-arm
 Description: An iPhone respring logo of the Tottenham Hotspur badge
 Homepage: hille.github.io
-Depiction: http://hille.github.io/depic/com.hille.tottenham.respringlogo/index.html
+Depiction: http://hille.github.io/depic/tv.hille.tottenham.respringlogo/index.html
 Maintainer: Hille <a.hille@gmail.com>
 Author: Hille <a.hille@gmail.com>
 Section: Themes (Winterboard)
 Depends: winterboard
-Filename: ./debs/com.hille.tottenham.respringlogo_0.1_iphoneos-arm.deb
-Size: 12204
-MD5sum: f2c65ce912ffa3e9368fa73415f2eaad
+Filename: ./debs/tv.hille.tottenham.respringlogo_0.2_iphoneos-arm.deb
+Size: 12186
+MD5sum: a31c5079b8ce0dfe1da9025ed847f06f
 Priority: optional
