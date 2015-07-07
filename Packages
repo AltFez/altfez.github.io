@@ -3,7 +3,7 @@ Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: Hille <a.hille@gmail.com>
 Depends: winterboard, com.codethemed.iconbundles
-Filename: ./packages/com.hille.kvasir2.customicons_0.1_iphoneos-arm.deb
+Filename: ./debs/com.hille.kvasir2.customicons_0.1_iphoneos-arm.deb
 Size: 169740
 MD5sum: 377d62bc087149afecbaddd4ea974e84
 SHA1: fea67c6346d3b6c4b2c152b33730a20c9f107cab
