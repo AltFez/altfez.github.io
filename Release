@@ -1,0 +1,8 @@
+Origin: Hille's Repo
+Label: Hille's Repo
+Suite: stable
+Version: 1.0
+Codename: Hille
+Architectures: iphoneos-arm
+Description: My own personal Cydia repo
+MD5Sum:
