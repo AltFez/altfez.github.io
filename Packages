@@ -2,7 +2,7 @@ Package: com.hille.kvasir2.customicons
 Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: Hille <a.hille@gmail.com>
-Depends: winterboard, iconbundles
+Depends: Winterboard, IconBundles
 Filename: ./packages/com.hille.kvasir2.customicons_0.1_iphoneos-arm.deb
 Size: 169740
 MD5sum: 377d62bc087149afecbaddd4ea974e84
