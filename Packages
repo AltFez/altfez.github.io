@@ -12,3 +12,4 @@ Depends: winterboard, com.codethemed.iconbundles
 Filename: ./debs/com.hille.kvasir2.customicons_0.1_iphoneos-arm.deb
 Size: 169784
 MD5sum: 0a36e01280afaf1dc731b3cea883b173
+Priority: optional
