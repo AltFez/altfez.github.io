@@ -13,3 +13,19 @@ Filename: ./debs/com.hille.kvasir2.customicons_0.1_iphoneos-arm.deb
 Size: 169784
 MD5sum: 0a36e01280afaf1dc731b3cea883b173
 Priority: optional
+
+Package: com.hille.tottenham.respringlogo
+Name: Tottenham Respring Logo
+Version: 0.1
+Architecture: iphoneos-arm
+Description: An iPhone respring logo of the Tottenham Hotspur badge
+Homepage: hille.github.io
+Depiction: http://hille.github.io/depic/com.hille.tottenham.respringlogo/index.html
+Maintainer: Hille <a.hille@gmail.com>
+Author: Hille <a.hille@gmail.com>
+Section: Themes (Winterboard)
+Depends: winterboard
+Filename: ./debs/com.hille.tottenham.respringlogo_0.1_iphoneos-arm.deb
+Size: 12186
+MD5sum: 08b7af15dfa585fc77b38aeeb477f9b5
+Priority: optional
