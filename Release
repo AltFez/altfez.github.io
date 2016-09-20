@@ -1,7 +1,7 @@
-Origin: Hille's Repo
-Label: Hille's Repo
+Origin: Fez's Repo
+Label: Fez's Repo
 Suite: stable
 Version: 1.0
-Codename: Hille
+Codename: AltFez
 Architectures: iphoneos-arm
 Description: My personal Cydia repo
