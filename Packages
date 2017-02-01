@@ -1,31 +1,31 @@
-Package: tv.hille.kvasir2.customicons
+Package: yup.altfez.kvasir2.customicons
 Name: Kvasir II Custom Icons
-Version: 0.2
+Version: 0.3
 Architecture: iphoneos-arm
-Description: Hille's custom Kvasir II icons
+Description: AltFez's custom Kvasir II icons
 Homepage: altfez.github.io
-Depiction: http://altfez.github.io/depic/tv.hille.kvasir2.customicons/index.html
-Maintainer: Hille <a.hille@gmail.com>
-Author: Hille <a.hille@gmail.com>
+Depiction: http://altfez.github.io/depic/yup.altfez.kvasir2.customicons/index.html
+Maintainer: AltFez <a.hille@gmail.com>
+Author: AltFez <a.hille@gmail.com>
 Section: Themes (Winterboard)
 Depends: winterboard, com.codethemed.iconbundles
-Filename: ./debs/tv.hille.kvasir2.customicons_0.2_iphoneos-arm.deb
-Size: 169814
-MD5sum: 268fc960013ec220ca1af511eec19a71
+Filename: ./debs/yup.altfez.kvasir2.customicons_iphoneos-arm.deb
+Size: 256394
+MD5sum: 8e03aac352536bc2753c8d916c6fe0db
 Priority: optional
 
-Package: tv.hille.tottenham.respringlogo
+Package: yup.altfez.tottenham.respringlogo
 Name: Tottenham Respring Logo
-Version: 0.2
+Version: 0.3
 Architecture: iphoneos-arm
 Description: An iPhone respring logo of the Tottenham Hotspur badge
 Homepage: altfez.github.io
-Depiction: http://altfez.github.io/depic/tv.hille.tottenham.respringlogo/index.html
-Maintainer: Hille <a.hille@gmail.com>
-Author: Hille <a.hille@gmail.com>
+Depiction: http://altfez.github.io/depic/yup.altfez.tottenham.respringlogo/index.html
+Maintainer: AltFez <a.hille@gmail.com>
+Author: AltFez <a.hille@gmail.com>
 Section: Themes (Winterboard)
 Depends: winterboard
-Filename: ./debs/tv.hille.tottenham.respringlogo_0.2_iphoneos-arm.deb
-Size: 12186
-MD5sum: a31c5079b8ce0dfe1da9025ed847f06f
+Filename: ./debs/yup.altfez.tottenham.respringlogo_iphoneos-arm.deb
+Size: 12202
+MD5sum: b437eccde5f5e36b0b824069f3abb944
 Priority: optional
