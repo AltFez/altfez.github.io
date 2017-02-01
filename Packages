@@ -10,8 +10,8 @@ Author: AltFez <a.hille@gmail.com>
 Section: Themes (Winterboard)
 Depends: winterboard, com.codethemed.iconbundles
 Filename: ./debs/yup.altfez.kvasir2.customicons_iphoneos-arm.deb
-Size: 256394
-MD5sum: 8e03aac352536bc2753c8d916c6fe0db
+Size: 256396
+MD5sum: dc28b854b192f8ffedca5a2e2ded85a0
 Priority: optional
 
 Package: yup.altfez.tottenham.respringlogo
@@ -27,5 +27,5 @@ Section: Themes (Winterboard)
 Depends: winterboard
 Filename: ./debs/yup.altfez.tottenham.respringlogo_iphoneos-arm.deb
 Size: 12202
-MD5sum: b437eccde5f5e36b0b824069f3abb944
+MD5sum: 34dc3f7b79c81f474a2035e45add125a
 Priority: optional
