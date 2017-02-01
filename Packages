@@ -1,6 +1,6 @@
 Package: yup.altfez.kvasir2.customicons
 Name: Kvasir II Custom Icons
-Version: 0.3
+Version: 0.4
 Architecture: iphoneos-arm
 Description: AltFez's custom Kvasir II icons
 Homepage: altfez.github.io
@@ -10,8 +10,8 @@ Author: AltFez <a.hille@gmail.com>
 Section: Themes (Winterboard)
 Depends: winterboard, com.codethemed.iconbundles
 Filename: ./debs/yup.altfez.kvasir2.customicons_iphoneos-arm.deb
-Size: 256396
-MD5sum: dc28b854b192f8ffedca5a2e2ded85a0
+Size: 278988
+MD5sum: 1faf8c318f61ee9fde10fb27ecff803b
 Priority: optional
 
 Package: yup.altfez.tottenham.respringlogo
