@@ -1,0 +1,11 @@
+Package: yup.altfez.tinycons
+Name: Tinycons
+Version: 0.1
+Architecture: iphoneos-arm
+Description: AltFez's Tinycons Icons
+Homepage: altfez.github.io
+Depiction: http://altfez.github.io/depic/yup.altfez.tinycons/index.html
+Maintainer: AltFez <a.hille@gmail.com>
+Author: AltFez <a.hille@gmail.com>
+Section: Themes
+Depends: com.anemonetheming.anemone
