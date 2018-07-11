@@ -4,7 +4,7 @@ Version: 0.4
 Architecture: iphoneos-arm
 Description: SilentFez's custom Kvasir II icons
 Homepage: SilentFez.github.io
-Depiction: http://SilentFez.github.io/depic/yup.silentfez.kvasir2.customicons/index.html
+Depiction: http://silentfez.github.io/depic/yup.silentfez.kvasir2.customicons/index.html
 Maintainer: SilentFez <a.hille@gmail.com>
 Author: SilentFez <a.hille@gmail.com>
 Section: Themes (Winterboard)
@@ -20,7 +20,7 @@ Version: 0.3
 Architecture: iphoneos-arm
 Description: An iPhone respring logo of the Tottenham Hotspur badge
 Homepage: SilentFez.github.io
-Depiction: http://SilentFez.github.io/depic/yup.silentfez.tottenham.respringlogo/index.html
+Depiction: http://silentfez.github.io/depic/yup.silentfez.tottenham.respringlogo/index.html
 Maintainer: SilentFez <a.hille@gmail.com>
 Author: SilentFez <a.hille@gmail.com>
 Section: Themes (Winterboard)
