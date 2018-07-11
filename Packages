@@ -4,12 +4,12 @@ Version: 0.4
 Architecture: iphoneos-arm
 Description: SilentFez's custom Kvasir II icons
 Homepage: SilentFez.github.io
-Depiction: http://SilentFez.github.io/depic/yup.SilentFez.kvasir2.customicons/index.html
+Depiction: http://SilentFez.github.io/depic/yup.silentfez.kvasir2.customicons/index.html
 Maintainer: SilentFez <a.hille@gmail.com>
 Author: SilentFez <a.hille@gmail.com>
 Section: Themes (Winterboard)
 Depends: winterboard, com.codethemed.iconbundles
-Filename: ./debs/yup.SilentFez.kvasir2.customicons_0.4_iphoneos-arm.deb
+Filename: ./debs/yup.silentfez.kvasir2.customicons_0.4_iphoneos-arm.deb
 Size: 278988
 MD5sum: 1faf8c318f61ee9fde10fb27ecff803b
 Priority: optional
@@ -20,12 +20,12 @@ Version: 0.3
 Architecture: iphoneos-arm
 Description: An iPhone respring logo of the Tottenham Hotspur badge
 Homepage: SilentFez.github.io
-Depiction: http://SilentFez.github.io/depic/yup.SilentFez.tottenham.respringlogo/index.html
+Depiction: http://SilentFez.github.io/depic/yup.silentfez.tottenham.respringlogo/index.html
 Maintainer: SilentFez <a.hille@gmail.com>
 Author: SilentFez <a.hille@gmail.com>
 Section: Themes (Winterboard)
 Depends: winterboard 
-Filename: ./debs/yup.SilentFez.tottenham.respringlogo_0.3_iphoneos-arm.deb
+Filename: ./debs/yup.silentfez.tottenham.respringlogo_0.3_iphoneos-arm.deb
 Size: 12202
 MD5sum: 34dc3f7b79c81f474a2035e45add125a
 Priority: optional
