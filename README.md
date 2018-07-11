@@ -1,2 +1,2 @@
-# altfez.github.io
+# silentfez.github.io
 My personal Cydia repository
