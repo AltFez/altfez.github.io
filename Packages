@@ -9,7 +9,7 @@ Maintainer: SilentFez <a.hille@gmail.com>
 Author: SilentFez <a.hille@gmail.com>
 Section: Themes
 Depends: com.codethemed.iconbundles, com.anemonetheming.anemone
-Filename: ./debs/yup.silentfez.kvasir2.customicons_iphoneos-arm.deb
+Filename: http://silentfez.github.io/debs/yup.silentfez.kvasir2.customicons_iphoneos-arm.deb
 Size: 260380
 MD5sum: 4d913184db9386217e46a6a555c41359
 Priority: optional
@@ -25,7 +25,7 @@ Maintainer: SilentFez <a.hille@gmail.com>
 Author: SilentFez <a.hille@gmail.com>
 Section: Themes
 Depends: com.anemonetheming.anemone
-Filename: ./debs/yup.silentfez.tottenham.respringlogo_iphoneos-arm.deb
+Filename: http://silentfez.github.io/debs/yup.silentfez.tottenham.respringlogo_iphoneos-arm.deb
 Size: 12048
 MD5sum: e7b91ffc9766ad30540028587bd416e1
 Priority: optional
@@ -41,7 +41,7 @@ Maintainer: SilentFez <a.hille@gmail.com>
 Author: SilentFez <a.hille@gmail.com>
 Section: Themes
 Depends: com.anemonetheming.anemone
-Filename: ./debs/yup.silentfez.tinycons_iphoneos-arm.deb
+Filename: http://silentfez.github.io/debs/yup.silentfez.tinycons_iphoneos-arm.deb
 Size: 844992
 MD5sum: ef21405864ac6dc842453ff297ad1912
 Priority: optional
