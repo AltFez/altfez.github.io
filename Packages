@@ -1,4 +1,4 @@
-Package: yup.silentfez.kvasir2.customicons_iphoneos-arm
+Package: yup.silentfez.kvasir2.customicons
 Name: Kvasir II Custom Icons
 Version: 0.4
 Architecture: iphoneos-arm
@@ -9,12 +9,12 @@ Maintainer: SilentFez <a.hille@gmail.com>
 Author: SilentFez <a.hille@gmail.com>
 Section: Themes
 Depends: com.codethemed.iconbundles, com.anemonetheming.anemone
-Filename: debs//yup.silentfez.kvasir2.customicons_iphoneos-arm.deb
-Size: 260380
-MD5sum: 4d913184db9386217e46a6a555c41359
+Filename: debs//yup.silentfez.kvasir2.customicons
+Size: 260388
+MD5sum: d43fe4c3c4d182c3534f33e0f2a7b0ea
 Priority: optional
 
-Package: yup.silentfez.tottenham.respringlogo_iphoneos-arm
+Package: yup.silentfez.tinycons
 Name: Tottenham Respring Logo
 Version: 0.4
 Architecture: iphoneos-arm
@@ -25,12 +25,12 @@ Maintainer: SilentFez <a.hille@gmail.com>
 Author: SilentFez <a.hille@gmail.com>
 Section: Themes
 Depends: com.anemonetheming.anemone
-Filename: debs//yup.silentfez.tottenham.respringlogo_iphoneos-arm.deb
+Filename: debs//yup.silentfez.tottenham.respringlogo
 Size: 12048
-MD5sum: e7b91ffc9766ad30540028587bd416e1
+MD5sum: d2067418b61fb60bf75a0dc86e357b48
 Priority: optional
 
-Package: yup.silentfez.tinycons_iphoneos-arm
+Package: yup.silentfez.tottenham.respringlogo
 Name: Tinycons
 Version: 0.1
 Architecture: iphoneos-arm
@@ -41,7 +41,7 @@ Maintainer: SilentFez <a.hille@gmail.com>
 Author: SilentFez <a.hille@gmail.com>
 Section: Themes
 Depends: com.anemonetheming.anemone
-Filename: debs//yup.silentfez.tinycons_iphoneos-arm.deb
-Size: 844992
-MD5sum: ef21405864ac6dc842453ff297ad1912
+Filename: debs//yup.silentfez.tinycons
+Size: 844946
+MD5sum: 0adeb14783038c628b029984006215f3
 Priority: optional
