@@ -1,0 +1,11 @@
+Package: yup.silentfez.kvasir2.customicons
+Name: Kvasir II Custom Icons
+Version: 0.4
+Architecture: iphoneos-arm
+Description: SilentFez's custom Kvasir II icons
+Homepage: silentfez.github.io
+Depiction: http://silentfez.github.io/depic/yup.silentfez.kvasir2.customicons/index.html
+Maintainer: SilentFez <a.hille@gmail.com>
+Author: SilentFez <a.hille@gmail.com>
+Section: Themes
+Depends: com.codethemed.iconbundles, com.anemonetheming.anemone

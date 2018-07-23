@@ -1,0 +1,11 @@
+Package: yup.silentfez.tinycons
+Name: Tinycons
+Version: 0.1
+Architecture: iphoneos-arm
+Description: SilentFez's Tinycons Icons
+Homepage: silentfez.github.io
+Depiction: http://silentfez.github.io/depic/yup.silentfez.tinycons/index.html
+Maintainer: SilentFez <a.hille@gmail.com>
+Author: SilentFez <a.hille@gmail.com>
+Section: Themes
+Depends: com.anemonetheming.anemone

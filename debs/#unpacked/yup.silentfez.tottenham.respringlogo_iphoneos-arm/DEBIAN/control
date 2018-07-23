@@ -1,0 +1,11 @@
+Package: yup.silentfez.tottenham.respringlogo
+Name: Tottenham Respring Logo
+Version: 0.4
+Architecture: iphoneos-arm
+Description: An iPhone respring logo of the Tottenham Hotspur badge
+Homepage: silentfez.github.io
+Depiction: http://silentfez.github.io/depic/yup.silentfez.tottenham.respringlogo/index.html
+Maintainer: SilentFez <a.hille@gmail.com>
+Author: SilentFez <a.hille@gmail.com>
+Section: Themes
+Depends: com.anemonetheming.anemone
