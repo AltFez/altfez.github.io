@@ -21,13 +21,26 @@ h4 { font-size: 10px; }
 	margin-top: 10px;
 }
 
-.pageitem {
-	background: #fff;
-	border-top: 1px solid #ddd;
+.pageitemheader {
+	background: #56e6a3;
 	border-bottom: 1px solid #ddd;
-	margin: 0 0 10px 0;
+	margin: 0 10px 10px 10px;
 	padding: 15px;
 	list-style-type: none;
+	border: 1px solid #ccc;
+	border-radius: 10px;
+	font-size: 20px;
+	text-align: center;
+}
+
+.pageitem {
+	background: #fbfbfb;
+	border-bottom: 1px solid #ddd;
+	margin: 0 10px 10px 10px;
+	padding: 15px;
+	list-style-type: none;
+	border: 1px solid #ccc;
+	border-radius: 10px;
 }
 
 
